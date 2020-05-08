@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'PT Mono';
+    src: local('PT Mono'), local('PTMono-Regular'),
+        url('PTMono-Regular.woff2') format('woff2'),
+        url('PTMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Regular'), local('Lato-Regular'),
+        url('Lato-Regular.woff2') format('woff2'),
+        url('Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: local('Bebas Neue Bold'), local('BebasNeue-Bold'),
+        url('BebasNeue-Bold.woff2') format('woff2'),
+        url('BebasNeue-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
