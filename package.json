@@ -20,7 +20,7 @@
   "dependencies": {
     "@contentful/gatsby-transformer-contentful-richtext": "^13.1.0",
     "babel-plugin-styled-components": "^1.10.7",
-    "bootstrap": "4.1.0",
+    "bootstrap": "4.3.1",
     "dotenv": "^8.2.0",
     "formik": "^2.1.4",
     "gatsby": "^2.19.12",
